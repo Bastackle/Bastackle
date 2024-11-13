@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bastackle
-I am Fame or you can call me Bastackle
-Computer Science at Kasetsart University Sriracha Campus
+- I'm Fame or you can call me Bastackle.
+- Computer Science at Kasetsart University Sriracha Campus
 
 ### Skills and Tools
 - 💻 Programming Languages: [e.g., Python, Java, JavaScript, C++]
