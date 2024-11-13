@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Bastackle
-I'm Fame or you can call me Bastackle.
+
+I'm Fame or you can call me Bastackle.  
 Computer Science at Kasetsart University Sriracha Campus [CS26]
 
 ### Skills and Tools
