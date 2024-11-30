@@ -10,3 +10,6 @@ Computer Science at Kasetsart University Sriracha Campus [CS26]
 
 ### Contact Me
 - 📧 Email: [thatthep.s@ku.th]
+
+### Github Pages
+- https://bastackle.github.io
