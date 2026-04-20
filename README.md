@@ -9,7 +9,7 @@ Computer Science at Kasetsart University Sriracha Campus [CS26]
 - 📚 Special Interests: [e.g., Web Development, Mobile App Development, Machine Learning]
 
 ### Contact Me
-- 📧 Email: [thatthep.s@ku.th]
+- 📧 Email: [thatthep.sata@gmail.com]
 
 ### My Website
 - 🖥️ GitHub Pages: https://bastackle.github.io
